@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -81,6 +82,9 @@
             text-decoration: none;
             color: #333;
         }
+        #left-content ul li a:hover {
+            color: #007BFF;
+        }
       
         #center-content {
             flex: 1;
@@ -132,15 +136,16 @@
                 <h1>Benefits of Travelling</h1>
                 <p>Traveling is more than just visiting new places — it’s an experience that helps people grow, learn, and appreciate life. Here are three main benefits of traveling:</p>
                 <hr>
-                <h1>1.Learning and Discovery</h1>
+                <h1>1. Learning and Discovery</h1>
                 <p>When you travel, you get to learn new things that you can’t find in books or online. You discover new cultures, try different foods, and see how people live in other parts of the world. It helps you become more open-minded and understanding of others.</p>
                 <hr>
                 <h1>2. Personal Growth</h1>
                 <p>Traveling helps you become more independent and confident. You learn how to make decisions, solve problems, and adapt to new situations. It also teaches patience and flexibility when things don’t go as planned.</p>
                 <hr>
-                 <h1>3. Relaxation and Happiness</h1>
+                <h1>3. Relaxation and Happiness</h1>
                 <p>A trip can give you a break from school or work stress. Seeing beautiful places and meeting new people can refresh your mind and body. It helps you feel happier, more relaxed, and ready to face challenges when you return.</p>
-
             </div>
+        </div>
+    </div>
 </body>
 </html>
