@@ -1,8 +1,8 @@
-
 <html>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Travelling Across The World</title>
     <style>
         * {
             margin: 0;
@@ -81,10 +81,7 @@
             text-decoration: none;
             color: #333;
         }
-        #left-content ul li a:hover {
-            text-decoration: underline;
-        }
-        
+      
         #center-content {
             flex: 1;
             padding: 30px;
@@ -115,9 +112,9 @@
 
         <div id="menu">
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Categories</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="About.html">About</a></li>
+                <li><a href="Places.html">Categories</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
         </div>
@@ -125,9 +122,9 @@
         <div id="body-content">
             <div id="left-content">
                 <ul>
-                    <li><a href="c:\Users\ASUS\OneDrive\Desktop\MIDTERM1 HUMCOM\Travelling Across the World.html">Home</a></li>
-                    <li><a href="c:\Users\ASUS\OneDrive\Desktop\MIDTERM1 HUMCOM\About.html">About</a></li>
-                    <li><a href="c:\Users\ASUS\OneDrive\Desktop\MIDTERM1 HUMCOM\Places.html">Places</a></li>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="About.html">About</a></li>
+                    <li><a href="Places.html">Places</a></li>
                 </ul>
             </div>
 
@@ -145,4 +142,5 @@
                 <p>A trip can give you a break from school or work stress. Seeing beautiful places and meeting new people can refresh your mind and body. It helps you feel happier, more relaxed, and ready to face challenges when you return.</p>
 
             </div>
-
+</body>
+</html>
